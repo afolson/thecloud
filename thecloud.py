@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# thecloud.py Micro-sized Twitter client.
+# thecloud.py - Micro-sized Twitter client.
 # Copyright (C) 2012  Amanda Folson <amanda@incredibl.org>
 
 # This program is free software; you can redistribute it and/or
