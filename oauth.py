@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # oauth.py -  Script to generate OAuth goodness with Tweepy
-# Copyright (C) 2013  Amanda Folson <amanda@incredibl.org>
+# Copyright (C) 2012  Amanda Folson <amanda@incredibl.org>
 
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
